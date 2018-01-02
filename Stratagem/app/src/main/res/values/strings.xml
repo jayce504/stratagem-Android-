@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stratagem</string>
+    <string name="title_activity_add_client">addClientActivity</string>
+</resources>
